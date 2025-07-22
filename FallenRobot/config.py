@@ -7,7 +7,7 @@ class Config(object):
 
     CASH_API_KEY = "L67DVENPKLB00X8H"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = "postgresql://zeta:ikancere13@localhost:5432/zeta"  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgresql://avnadmin:AVNS_XgT5HaHVPmLGB8sSoqq@pg-2b701135-secarikkertas160-955d.f.aivencloud.com:23278/defaultdb?sslmode=require"  # A sql database url from elephantsql.com
 
     EVENT_LOGS = -100277190937  # Event logs channel to note down important bot level events
 
