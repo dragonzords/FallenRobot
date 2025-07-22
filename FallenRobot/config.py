@@ -9,7 +9,7 @@ class Config(object):
 
     DATABASE_URL = "postgresql://zeta:ikancere13@localhost:5432/zeta"  # A sql database url from elephantsql.com
 
-    EVENT_LOGS = -1002254300100  # Event logs channel to note down important bot level events
+    EVENT_LOGS = -100277190937  # Event logs channel to note down important bot level events
 
     MONGO_DB_URI = "mongodb+srv://xyzuan1608:ieeRJVKIN65oNb3J@cluster0.fbx82.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"  # Get ths value from cloud.mongodb.com
 
@@ -18,7 +18,7 @@ class Config(object):
 
     SUPPORT_CHAT = "bloodmoonsupport"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "7948117552:AAHkRdtQkgjyFFshL2xH61X2YnuFP9Eflv0"  # Get bot token from @BotFather on Telegram
+    TOKEN = "7810508270:AAFMht3TR9OIOP13TLIdPRzdOvHNYMj7Wss"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = ""  # Get this value from https://timezonedb.com/api
 
